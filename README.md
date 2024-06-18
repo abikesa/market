@@ -13,7 +13,7 @@
 - Pouvoir/Basic: Transposition of Process Exponentiated Scale
    
 ### [Signal](https://abikesa.github.io/identity/) [4](https://d2bu9v0mnky9ur.cloudfront.net/academy2018/cra/screenplay/cra_wbfomat.pdf)
-- Memoire/Intermediate: The Surplus of Overflow Manifests in Growth in Usage-Volume of Product
+- Memoire/Intermediate: The Surplus of Overflow [Manifests](https://abikesa.github.io/means/) in Growth in Usage-Volume of Product
   
 ### Market 5, 6
 - Reservoir/Advanced: Streets Treat This As Symptom of Much More to Come via P/E Ratio
