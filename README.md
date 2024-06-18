@@ -12,7 +12,7 @@
 - Savoir/Neuralnetworks: Encoding H-G into Peasant Community Activity
 - Pouvoir/Basic: Transposition of Process Exponentiated Scale
    
-### Signal [4](https://d2bu9v0mnky9ur.cloudfront.net/academy2018/cra/screenplay/cra_wbfomat.pdf)
+### [Signal](https://abikesa.github.io/identity/) [4](https://d2bu9v0mnky9ur.cloudfront.net/academy2018/cra/screenplay/cra_wbfomat.pdf)
 - Memoire/Intermediate: The Surplus of Overflow Manifests in Growth in Usage-Volume of Product
   
 ### Market 5, 6
