@@ -8,7 +8,7 @@
                                   3. Tools
 
 ### Runneth-over 1, 2, [3](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism#3)
-- Voir/Modes: Hunter-Gatherer of Data or Something
+- Voir/Modes: Hunter-Gatherer of [Data or Something](https://www.youtube.com/watch?v=bN6LfLwvVQM)
 - Savoir/Neuralnetworks: Encoding H-G into Peasant Community Activity
 - Pouvoir/Basic: Transposition of Process Exponentiated Scale
    
