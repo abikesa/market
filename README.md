@@ -16,5 +16,5 @@
 - Memoire/Intermediate: The Surplus of Overflow [Manifests](https://abikesa.github.io/means/) in Growth in Usage-Volume of Product
   
 ### Market 5, 6
-- Reservoir/Advanced: Streets Treat This As Symptom of Much More to Come via P/E Ratio
+- Reservoir/Advanced: Streets Treat This As Symptom of Much More to Come via [P/E Ratio](https://github.com/abikesa/market/blob/main/duration.md)
 - Dubois/Growth: There's More From Where That Came %/Decade
