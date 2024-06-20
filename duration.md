@@ -105,3 +105,9 @@ plt.show()
 4. **Combined Plot**: This combined plot overlays the S&P 500 index price, CAPE ratio, and interest rates to provide a comprehensive view of their interrelations.
 
 These plots help to visually understand the relationships and trends described in the article, particularly the impact of interest rates on long-duration assets like high-valuation stocks and the implications for future market movements.
+
+![](duration.png)
+![](interest_rates.png)
+![](sp500.png)
+![](cape.png)
+![](rates_cape.png)
